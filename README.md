@@ -1,6 +1,6 @@
 <div align="center">
 
-# <img src="Quick-Voice-Calculator_1.png" width="50" style="vertical-align: middle;"> 🧮 Quick Voice Calculator 🎙️
+# 🧮 Quick Voice Calculator 🎙️
 
 ### The ultimate all-in-one voice-powered math & conversion tool for Android
 
